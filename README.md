@@ -17,7 +17,7 @@ undefined
 ## Usage
 For user looking for more information on books
 ## License
-![badge](https://img.shields.io/badge/license-MIT-green)
+![badge](https://img.shields.io/badge/license-MIT-brightgreen)
 <br />
 This application is covered by the MIT license.
 ## Contributing
