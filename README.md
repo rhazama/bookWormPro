@@ -25,5 +25,5 @@ Ryan Hazama
 n/a
 ## Questions
 rhazama01@gmail.com<br />
-:octocat: Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
+Find me on GitHub: [rhazama](https://github.com/rhazama)<br />
 Email me with any questions: rhazama01@gmail.com<br />
