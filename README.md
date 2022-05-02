@@ -2,8 +2,7 @@
 
 ![badge](https://img.shields.io/badge/license-MIT-brightgreen)<br />
 ## Description
-BookWormPro is
-
+BookWormPro is a website where users are able to find and save books through a search engine. They are able to see the title, images, authors, and more when finding books.
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
